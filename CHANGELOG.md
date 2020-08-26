@@ -80,4 +80,4 @@ ring := redis.NewRing(&redis.RingOptions{
 
 - ClusterClient got new option called `ClusterSlots` which allows to build cluster of normal Redis
   Servers that don't have cluster mode enabled. See
-  https://godoc.org/github.com/go-redis/redis#example-NewClusterClient--ManualSetup
+  https://godoc.org/github.com/vircongroup/redis#example-NewClusterClient--ManualSetup

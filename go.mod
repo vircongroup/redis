@@ -1,4 +1,4 @@
-module github.com/go-redis/redis/v8
+module github.com/vircongroup/redis/v8
 
 require (
 	github.com/cespare/xxhash/v2 v2.1.1
